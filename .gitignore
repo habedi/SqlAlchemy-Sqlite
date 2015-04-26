@@ -56,4 +56,4 @@ target/
 # temp files
 *~
 *#
-
+*.bak
